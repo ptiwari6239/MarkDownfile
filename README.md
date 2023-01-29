@@ -6,8 +6,9 @@ __italics__
 normal texr
 **bold**
 ~~1000~~ **999**
+``ifconfig``
 ---
-Links
+Links allows computers or services in private networks to connect over the internet with other public or private computers or services.
 [visit this link ](https://www.youtube.com/watch?v=bpdvNwvEeSE)
 images 
 ![images](https://learncodeonline.in/mascot.png)
